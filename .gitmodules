@@ -4,3 +4,6 @@
 [submodule "omxplayer"]
 	path = omxplayer
 	url = git@github.com:huceke/omxplayer.git
+[submodule "videocoreiv"]
+	path = videocoreiv
+	url = git@github.com:hermanhermitage/videocoreiv.git
