@@ -1,0 +1,6 @@
+[submodule "rockbox"]
+	path = rockbox
+	url = git://github.com/Rockbox/rockbox.git
+[submodule "omxplayer"]
+	path = omxplayer
+	url = git@github.com:huceke/omxplayer.git

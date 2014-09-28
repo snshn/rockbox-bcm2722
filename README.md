@@ -1,4 +1,4 @@
-rockbox-bcm2722
+Rockbox-BCM2722
 ===============
 
-Attempt to add Video Core IV support to rockbox for BCM2722 chips found inside iPod 5g for hardware-accelerated video playback
+Attempt to add VideoCore IV BCM2722 support to Rockbox music player firmware found inside iPod 5g for hardware-accelerated video playback
